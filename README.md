@@ -1,28 +1,28 @@
 # Traducao OpenCart v2.0.1.1
-Local destinado a tradução da loja OpenCard v2.0.1.1
+Location for the translation of the Store Opencard v2.0.1.1
 
-Aqui você encontra os arquivos nescessários para poder traduzir a sua loja OpenCard na versão v2.0.1.1.
-
-
-A TecSecret se reserva o direito de alterar ou publicar qualquer atualização nos arquivos aqui contidos a qualquer momento sem que emita aviso prévio aos utlizadores.
-
-Caso ache algum bug em nossa tradução pode reportar o mesmo atravéz de nossa página na web: www.tecsecret.com.br e aguarde que logo será disponibilizado uma nova versão com a correção.
-
-# Está tradução faz parte do projeto OpenSource que a TecSecret mantem e a mesma é distribuída e sempre será gratuita.
+Here you will find the files in need to translate your Opencard store in V2.0.1.1 version.
 
 
-Instrução de instalação:
+TecSecret reserves the right to change or publish any updates in the files contained herein at any time without issue notice to the utlizers.
 
-1 - Baixe o pacote Quick Install v1.x.x.ocmod 
-2 - Acesse a perte administrativa e vá em: Extensions Installer e faça o upload e aguarde a instalação.
+If you find any bug in our translation you can report the same through our web page: www.tecsecret.com.br and wait for a new version with the correction.
 
-
-Disponibilizamos os arquivos para instalação manual (não automática) caso deseje envie um e-mail para helpdesk@tecsecret.com.br e será enviado os procedimentos.
+# This translation is part of the OpenSource project that TecSecret maintains and it is distributed and will always be free.
 
 
+Installation Instruction:
+
+1 - Download the Quick Install v1.x.x.ocmod package
+2 - Access the administrative belong and go to: Extensions Installer and upload and wait for the installation.
 
 
-Caso ocorra um erro de ftp quando estiver instalando a tradução, realize a instalação deste fix:
-http://www.opencart.com/index.php?route=extension/extension/info&extension_id=20913
+We provide the files for manual installation (not automatic) if you wish to send an e-mail to helpdesk@tecsecret.com.br and the procedures will be sent.
 
-Após a instalação do fix realize a instalação da tradução novamente.
+
+
+
+If an FTP error occurs when you are installing the translation, perform the installation of this FIX:
+http://www.opencart.com/index.php?let=Extension/Extension/Info&Extension_Id=20913
+
+After installing the Fix Perform the translation installation again.
